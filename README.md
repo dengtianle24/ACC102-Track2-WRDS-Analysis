@@ -32,7 +32,7 @@ This project analyses stock price trends and return volatility using real financ
 
 ## 6. Product link / Demo
 GitHub repository: https://github.com/dengtianle24/ACC102-Track2-WRDS-Analysis
-Demo video: [你的视频链接]
+Demo video: https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/f39998d971e14ff39b222caf842d85511d
 
 ## 7. Limitations & next steps
 - Only one company is included in the analysis

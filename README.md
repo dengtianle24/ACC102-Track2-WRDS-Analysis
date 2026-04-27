@@ -31,7 +31,7 @@ This project analyses stock price trends and return volatility using real financ
 3. Run all cells sequentially
 
 ## 6. Product link / Demo
-GitHub repository: [你的仓库链接]
+GitHub repository: https://github.com/dengtianle24/ACC102-Track2-WRDS-Analysis
 Demo video: [你的视频链接]
 
 ## 7. Limitations & next steps
